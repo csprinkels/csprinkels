@@ -1,6 +1,6 @@
 # Christian Sprinkel 🤙
 
-**`FrontEnd Dev / Filmmaker / Creator`**
+**`Front-end Dev / Filmmaker / Creator`**
 
 <!--- About Me --->
 
