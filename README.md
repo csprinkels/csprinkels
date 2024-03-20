@@ -32,6 +32,6 @@ My name is Christian Sprinkel, I was born and raised in hawaii 🌴 I work as a 
 
 <img align="left" alt="react" width="100px" style="padding-right:10px;" src="./assets/reactjs.png" />
 
-<img align="left" alt="tailwind" width="100px" style="padding-right:10px; padding-top: 10px" src="./assets/tailwind.png" />
+<img align="left" alt="tailwind" width="100px" style="padding-right:10px;" src="./assets/tailwind.png" />
 
-<img align="left" alt="threejs" width="100px" style="padding-right:10px; padding-top:10px" src="./assets/threejs.png" />
+<img align="left" alt="threejs" width="100px" style="padding-right:10px;" src="./assets/threejs.png" />
