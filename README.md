@@ -3,7 +3,7 @@
 **`Front-end Dev / Filmmaker / Creator`**
 
 <!--- About Me --->
-My name is Christian Sprinkel, I was born and raised in hawaii 🌴 I work as a Front-End Developer but I also enjoy creating videos
+My name is Christian Sprinkel, I was born and raised in Hawaii 🌴 I work as a Front-End Developer but I also enjoy creating videos
 
 <a href="https://www.youtube.com/channel/UCyv0bAdrDwEBlTeY7KmYOaQ">
     <img align="left" alt="youtube" width="100px" style="padding-right:10px;" src="./assets/youtube.png" />
