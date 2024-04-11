@@ -1,6 +1,6 @@
 # Christian Sprinkel 🤙
 
-**`Front-end Dev / Filmmaker / Creator`**
+**`FRONT-END DEV / CREATOR`**
 
 <!--- About Me --->
 My name is Christian Sprinkel, I was born and raised in Hawaii 🌴 I work as a Front-End Developer but I also enjoy creating videos
