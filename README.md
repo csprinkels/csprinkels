@@ -1,41 +1,37 @@
-# Christian Sprinkel 🤙
+<div align="center">
 
-**`FRONT-END DEV / CREATOR`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A8D8EA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Christian+%F0%9F%A4%99;Creative+Developer;Front-End+Dev+%7C+Content+Creator)](https://github.com/csprinkels)
 
-<!--- About Me --->
-My name is Christian Sprinkel, I was born and raised in Hawaii 🌴 I work as a Front-End Developer but I also enjoy creating videos
+Born and raised in Hawaii 🌴 I'm a front-end developer and content creator with a passion for building creative web experiences. I love blending design and code to bring ideas to life.
 
-<a href="https://www.youtube.com/channel/UCyv0bAdrDwEBlTeY7KmYOaQ">
-    <img align="left" alt="youtube" width="100px" style="padding-right:10px;" src="./assets/youtube.png" />
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyv0bAdrDwEBlTeY7KmYOaQ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/csprinkels/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csprinkels/)
+[![Website](https://img.shields.io/badge/csprinkels.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://csprinkels.com)
 
-<a href="https://www.instagram.com/csprinkels/">
-    <img align="left" alt="instagram" width="100px" style="padding-right:10px;" src="./assets/instagram.png" />
-</a>
-
-
-<br>
-<br>
+</div>
 
 ---
 
-<!--- Programming Languages --->
-### Programming Languages
+## 🛠️ Tech Stack
 
-<img align="left" alt="HTML" width="100px" style="padding-block:10px;" src="./assets/html.png" />
+<div align="center">
 
-<img align="left" alt="CSS" width="100px" style="padding-block:10px;" src="./assets/css.png" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,threejs,nodejs,python,swift,vite&perline=7" alt="Tech Stack" />
+<br><br>
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 
-<img align="left" alt="javascript" width="100px" style="padding-block:10px;" src="./assets/javascript.png" />
+</div>
 
-<img align="left" alt="Bootstrap" width="100px" style="padding-block:10px;" src="./assets/bootstrap.png" />
+---
 
-<img align="left" alt="react" width="100px" style="padding-block:10px;" src="./assets/reactjs.png" />
+## 🔥 Featured Project
 
-<img align="left" alt="tailwind" width="100px" style="padding-block:10px;" src="./assets/tailwind.png" />
+<div align="center">
 
-<img align="left" alt="threejs" width="100px" style="padding-block:10px;" src="./assets/threejs.png" />
+<!-- Add your screenshot to ./assets/personal-site-screenshot.png -->
+<a href="https://github.com/csprinkels/csprinkels-personal-site-2026">
+  <img src="./assets/personal-site-screenshot.png" alt="Personal Site 2026" width="600" style="border-radius: 10px;" />
+</a>
 
-<img align="left" alt="drupal" width="100px" style="padding-block:10px;" src="./assets/drupal.png" />
-
-<img align="left" alt="vite" width="100px" style="padding-block:10px;" src="./assets/vite.png" />
+</div>
