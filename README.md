@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Christian+%F0%9F%A4%99;Creative+Developer;Front-End+Dev+%7C+Content+Creator)](https://github.com/csprinkels)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A8D8EA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Christian+%F0%9F%A4%99;Creative+Developer;Front-End+Dev+%7C+Content+Creator)](https://github.com/csprinkels)
 
 Born and raised in Hawaii 🌴 I'm a front-end developer and content creator with a passion for building creative web experiences. I love blending design and code to bring ideas to life.
 
@@ -17,18 +17,9 @@ Born and raised in Hawaii 🌴 I'm a front-end developer and content creator wit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,threejs,nodejs,python,swift,drupal,vite&perline=7" alt="Tech Stack" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=csprinkels&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=csprinkels&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,threejs,nodejs,python,swift,vite&perline=7" alt="Tech Stack" />
+<br><br>
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 
 </div>
 
@@ -38,8 +29,9 @@ Born and raised in Hawaii 🌴 I'm a front-end developer and content creator wit
 
 <div align="center">
 
+<!-- Add your screenshot to ./assets/personal-site-screenshot.png -->
 <a href="https://github.com/csprinkels/csprinkels-personal-site-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=csprinkels&repo=csprinkels-personal-site-2026&theme=tokyonight&hide_border=true" alt="Personal Site" />
+  <img src="./assets/personal-site-screenshot.png" alt="Personal Site 2026" width="600" style="border-radius: 10px;" />
 </a>
 
 </div>
