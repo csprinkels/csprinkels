@@ -19,7 +19,6 @@ Born and raised in Hawaii 🌴 I'm a front-end developer and content creator wit
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,threejs,nodejs,python,swift,vite&perline=7" alt="Tech Stack" />
 <br><br>
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 
 </div>
 
