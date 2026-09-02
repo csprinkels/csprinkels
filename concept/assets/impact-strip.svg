@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Impact at a glance</title>
+  <desc id="desc">Five plus years of experience, twelve plus emergency feeds, 177 practice questions, and work across web, mobile, cloud, and IT.</desc>
+  <rect width="1200" height="210" rx="24" fill="#082F3C"/>
+  <path d="M0 18Q0 0 18 0h264v7H0z" fill="#F07855"/>
+  <path d="M306 0h282v7H306z" fill="#55C9CD"/>
+  <path d="M612 0h282v7H612z" fill="#F5B54C"/>
+  <path d="M918 0h264q18 0 18 18v-11H918z" fill="#55C9CD"/>
+  <g stroke="#356370" stroke-width="1">
+    <path d="M300 28v154"/><path d="M606 28v154"/><path d="M912 28v154"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(150)">
+      <path d="M-30 74q15-22 30 0t30 0M-30 88q15-22 30 0t30 0" fill="none" stroke="#7CDCE2" stroke-width="5" stroke-linecap="round"/>
+      <text y="137" fill="#FFFFFF" font-size="42" font-weight="800">5+</text>
+      <text y="169" fill="#B8D9DD" font-size="17" font-weight="600">YEARS EXPERIENCE</text>
+    </g>
+    <g transform="translate(456)">
+      <path d="M0 54v38M-18 70a25 25 0 0 1 36 0M-30 58a41 41 0 0 1 60 0" fill="none" stroke="#F07855" stroke-width="5" stroke-linecap="round"/>
+      <circle cy="93" r="7" fill="#F07855"/>
+      <text y="137" fill="#FFFFFF" font-size="42" font-weight="800">12+</text>
+      <text y="169" fill="#B8D9DD" font-size="17" font-weight="600">EMERGENCY FEEDS</text>
+    </g>
+    <g transform="translate(762)">
+      <path d="M-28 55h20q8 0 8 8v34q0-8-10-8h-18zM28 55H8q-8 0-8 8v34q0-8 10-8h18z" fill="none" stroke="#F5B54C" stroke-width="5" stroke-linejoin="round"/>
+      <text y="137" fill="#FFFFFF" font-size="42" font-weight="800">177</text>
+      <text y="169" fill="#B8D9DD" font-size="17" font-weight="600">PRACTICE QUESTIONS</text>
+    </g>
+    <g transform="translate(1056)">
+      <circle cx="-30" cy="73" r="13" fill="none" stroke="#7CDCE2" stroke-width="4"/>
+      <rect x="-8" y="60" width="26" height="26" rx="5" fill="none" stroke="#7CDCE2" stroke-width="4"/>
+      <path d="M42 59l15 9v18l-15 9-15-9V68z" fill="none" stroke="#7CDCE2" stroke-width="4"/>
+      <text y="133" fill="#FFFFFF" font-size="27" font-weight="800">WEB · MOBILE</text>
+      <text y="164" fill="#FFFFFF" font-size="27" font-weight="800">CLOUD · IT</text>
+    </g>
+  </g>
+</svg>

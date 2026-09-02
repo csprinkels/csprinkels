@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="350" viewBox="0 0 560 350" role="img" aria-label="Temporary image slot for Kilo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#082F3C"/><stop offset="1" stop-color="#086F78"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="560" height="350" rx="22" fill="url(#bg)"/>
+  <rect width="560" height="350" rx="22" fill="url(#grid)"/>
+<g transform="translate(300 140)">
+    <path d="M-105 18l25-19 31 6 21-23 31 11 19 28-31 10-17 31-38-10-25 8z" fill="#2CA6A4" stroke="#9DE3DE" stroke-width="3"/>
+    <path d="M34-32l24-14 30 13 10 25-27 12-30-11zM105 28l17-12 24 8 7 22-24 9-21-10z" fill="#2CA6A4" stroke="#9DE3DE" stroke-width="3"/>
+    <circle cx="-15" cy="4" r="28" fill="#F07855" fill-opacity=".2"/>
+    <path d="M-15-18a20 20 0 0 0-20 20c0 17 20 38 20 38S5 19 5 2a20 20 0 0 0-20-20z" fill="#F07855"/>
+    <circle cx="-15" cy="2" r="7" fill="#FFFFFF"/>
+  </g>
+  <rect x="28" y="28" width="154" height="34" rx="17" fill="#082F3C" fill-opacity=".78" stroke="#F07855"/>
+  <text x="105" y="50" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1.5">IMAGE SLOT</text>
+  <text x="30" y="284" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">Kilo</text>
+  <text x="30" y="317" fill="#FFFFFF" fill-opacity=".8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Replace with product screenshot</text>
+  <rect x="1.5" y="1.5" width="557" height="347" rx="21" fill="none" stroke="#F07855" stroke-width="3" stroke-opacity=".8"/>
+</svg>

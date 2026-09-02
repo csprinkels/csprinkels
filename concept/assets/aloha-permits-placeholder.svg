@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="350" viewBox="0 0 560 350" role="img" aria-label="Temporary image slot for Aloha Permits">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#D85D45"/><stop offset="1" stop-color="#E6A33D"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="560" height="350" rx="22" fill="url(#bg)"/>
+  <rect width="560" height="350" rx="22" fill="url(#grid)"/>
+<g transform="translate(280 138)">
+    <rect x="-58" y="-92" width="116" height="184" rx="23" fill="#082F3C" stroke="#FFFFFF" stroke-width="5"/>
+    <rect x="-43" y="-66" width="86" height="128" rx="6" fill="#F6F0E5"/>
+    <rect x="-18" y="-82" width="36" height="5" rx="2.5" fill="#7CDCE2"/>
+    <path d="M0-45l33 33L0 21l-33-33z" fill="#F5B54C" stroke="#082F3C" stroke-width="4"/>
+    <path d="M-11-22q22 7 13 28M2 6l-8-8M2 6l9-6" fill="none" stroke="#082F3C" stroke-width="5" stroke-linecap="round"/>
+    <circle cy="76" r="7" fill="#7CDCE2"/>
+  </g>
+  <rect x="28" y="28" width="154" height="34" rx="17" fill="#082F3C" fill-opacity=".78" stroke="#7CDCE2"/>
+  <text x="105" y="50" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1.5">IMAGE SLOT</text>
+  <text x="30" y="284" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">Aloha Permits</text>
+  <text x="30" y="317" fill="#FFFFFF" fill-opacity=".8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Replace with App Store screenshot</text>
+  <rect x="1.5" y="1.5" width="557" height="347" rx="21" fill="none" stroke="#7CDCE2" stroke-width="3" stroke-opacity=".8"/>
+</svg>
